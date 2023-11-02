@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Geometric-706-Std-Black';
+    src: url('../../public/fonts/geometric-706-black-condensed-bt.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
