@@ -22,7 +22,7 @@
             </div>
 
             {{-- Content --}}
-            <div class="w-full flex flex-col gap-10 sm:max-w-md mt-6 px-6 bg-white overflow-y-auto h-screen sm:rounded-lg">
+            <div class="w-full flex flex-col gap-8 sm:max-w-md mt-6 px-6 bg-white overflow-y-auto h-screen sm:rounded-lg">
                 <div class="text-2xl font-poppins font-semibold text-center">
                     {{ $title }}
                 </div>
